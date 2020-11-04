@@ -1,0 +1,70 @@
+Backend/node_modules
+Backend/node_modules/public/hot
+Backend/node_modules/public/storage
+Backend/node_modules/storage/*.key
+Backend/node_modules/vendor
+Backend/node_modules/.idea
+Backend/node_modules/.vscode
+Backend/node_modules/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+Frontend/build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+gradle.properties
+*.iml
+
+# node.js
+#
+Frontend/node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+Frontend/buck-out/
+\.buckd/
+#*.keystore
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle artifact
+*.jsbundle

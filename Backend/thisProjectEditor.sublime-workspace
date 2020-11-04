@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"back"
+			],
+			[
+				"sigh",
+				"sightsVocabular"
+			],
+			[
+				"sight",
+				"sights_id"
+			],
+			[
+				"s",
+				"sights"
+			],
+			[
+				"sig",
+				"sightsVocabular"
+			],
+			[
+				"shed",
+				"Shedules"
+			],
+			[
+				"co",
+				"col-xs-4"
+			],
+			[
+				"sightsV",
+				"sightsVocabular"
+			],
+			[
+				"col",
+				"col-md-2"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-2"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"Admin",
+				"AdminController"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"botr",
+				"border-top"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"clo",
+				"col-xs-4"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"lin",
+				"link_count"
+			],
+			[
+				"secre",
+				"secretCodeHidden"
+			],
+			[
+				"re",
+				"reviews"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"Doc",
+				"Document"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"doc",
+				"documents"
+			],
+			[
+				"Consu",
+				"consumerinfo"
+			],
+			[
+				"conte",
+				"container-fluid"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"col-xs",
+				"col-xs-12"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"direc",
+				"director"
+			],
+			[
+				"projec",
+				"project"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"Dir",
+				"Director"
+			],
+			[
+				"dire",
+				"director"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"revi",
+				"review-section"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"const",
+				"constructions"
+			],
+			[
+				"Con",
+				"conclusingconclusing"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ar",
+				"array2"
+			],
+			[
+				"e",
+				"employers"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"tt",
+				"totalius"
+			],
+			[
+				"con",
+				"consumerinfo"
+			],
+			[
+				"dele",
+				"deleteImg"
+			],
+			[
+				"ph",
+				"photo"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"te",
+				"template\tTag"
+			],
+			[
+				"add",
+				"additional"
+			],
+			[
+				"genra",
+				"general"
+			],
+			[
+				"areale",
+				"arealearn"
+			],
+			[
+				"tasklea",
+				"tasklearn"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"docum",
+				"document"
+			],
+			[
+				"creat",
+				"creating"
+			],
+			[
+				"crea",
+				"creating"
+			],
+			[
+				"col-",
+				"col-lg-4"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"hide",
+				"hideall"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"create",
+				"createtask"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Land",
+				"Landing-page"
+			],
+			[
+				"com",
+				"complete"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"shad",
+				"text-shadow"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"rbg",
+				"rgba()"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Projects/Startup_klugdata/TheThingWhichWasMain/www/.htaccess",
+			"settings":
+			{
+				"buffer_size": 534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/.htaccess",
+			"settings":
+			{
+				"buffer_size": 534,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 443.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"control ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ooaka",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"php artisan make:controller AdminController"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/bootstrap",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/database",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/database/migrations",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/auth",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/layouts",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/shedule",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/routes"
+	],
+	"file_history":
+	[
+		"/C/Projects/Startup_klugdata/TheThingWhichWasMain/.env",
+		"/C/Projects/Startup_klugdata/TheThingWhichWasMain/bootstrap/app.php",
+		"/C/Projects/Startup_klugdata/TheThingWhichWasMain/www/.htaccess",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sightVocabular.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sightslist.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Controllers/PhotoUploadController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Controllers/SightsController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/index.php",
+		"/C/xampp/htdocs/sasArch/resources/views/documents/list/docslist.blade.php",
+		"/C/xampp/htdocs/sasArch/app/Http/Controllers/DocsController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Controllers/SightVocabularController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Controllers/APIController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/routes/web.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/database/migrations/2018_02_15_090656_vocabular_languages.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/sightsVocabular.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sightCreate.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/layouts/app.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Shedules.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/routes/api.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sightPhotos.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/database/migrations/2018_02_15_083721_add_places_to_sights.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Controllers/SheduleController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/js/sheduleCreate.js",
+		"/C/xampp/htdocs/sasArch/app/Archobject.php",
+		"/C/xampp/htdocs/sasArch/app/Director.php",
+		"/C/xampp/htdocs/sasArch/app/Docsetting.php",
+		"/C/xampp/htdocs/sasArch/app/Document.php",
+		"/C/xampp/htdocs/sasArch/app/Consumerinfo.php",
+		"/C/xampp/htdocs/sasArch/app/Total.php",
+		"/C/xampp/htdocs/sasArch/app/Additional.php",
+		"/C/xampp/htdocs/sasArch/app/Photo.php",
+		"/C/xampp/htdocs/sasArch/app/Payerinfo.php",
+		"/C/xampp/htdocs/sasArch/app/Globalsetting.php",
+		"/C/xampp/htdocs/sasArch/app/Paymentsetting.php",
+		"/C/xampp/htdocs/sasArch/app/Data.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/vocabular/show.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sight.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/css/style.css",
+		"/C/xampp/htdocs/sasArch/resources/views/documents/creating/part5.blade.php",
+		"/C/xampp/htdocs/sasArch/public/css/custom.css",
+		"/C/xampp/htdocs/kdcloud/resources/views/settings/menu.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/js/ajax/sightsvocabular.js",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/home.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/kdcloud/public/js/ajax/LinkController.js",
+		"/C/xampp/htdocs/kdcloud/app/Http/Controllers/DeleteLinkController.php",
+		"/C/xampp/htdocs/kdcloud/app/Http/Controllers/LinkController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/js/ajax/fields.js",
+		"/C/xampp/htdocs/kdcloud/public/js/fields.js",
+		"/C/xampp/htdocs/kdcloud/resources/views/tables/list.blade.php",
+		"/C/xampp/htdocs/kdcloud/resources/views/link/show.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/js/fields.js",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Controllers/FieldsController.php",
+		"/C/xampp/htdocs/kdcloud/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/kdcloud/resources/views/link/create.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/link/create.blade.php",
+		"/C/xampp/htdocs/sasArch/app/Http/Controllers/PhotosController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Sights.php",
+		"/C/xampp/htdocs/sasArch/resources/views/documents/print/print.blade.php",
+		"/C/xampp/htdocs/sasArch/.env",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/config/app.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sights.blade.php",
+		"/C/xampp/htdocs/sasArch/resources/views/documents/photo/load.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/composer.json",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/bootstrap/app.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/vendor/league/flysystem/src/Config.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Providers/AppServiceProvider.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/SightsPhotos.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/sights.photos.blade.php",
+		"/C/xampp/htdocs/BaseApplication/app/Http/Controllers/LinkController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Requests/SightsRequest.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/app/Http/Requests/Sights.php",
+		"/C/xampp/htdocs/BaseApplication/app/User.php",
+		"/C/xampp/htdocs/BaseApplication/app/Link.php",
+		"/C/xampp/htdocs/BaseApplication/app/Http/Requests/Links.php",
+		"/C/xampp/htdocs/BaseApplication/app/Http/Controllers/HomeController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/layouts/lMenu.blade.php",
+		"/C/xampp/htdocs/sasArch/resources/views/layouts/app.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/public/css/app.css",
+		"/C/xampp/htdocs/sasArch/resources/views/home.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/layouts/head.blade.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/resources/views/layouts/sights.php",
+		"/C/xampp/htdocs/kdcloud/app/Http/Controllers/SearchController.php",
+		"/C/xampp/htdocs/kdcloud/app/Http/Controllers/EditLinkController.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/config/database.php",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/.env",
+		"/C/Projects/Startup_EastTrip/WebApplication/EastTrip/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/C/Education/Software_design/туц/07 UML/07 UML/soft/UMLStudio80/UMLStudio 8.0/Purchase.idl",
+		"/C/Education/Software_design/туц/07 UML/07 UML/soft/UMLStudio80/UMLStudio 8.0/Admin.idl",
+		"/C/Education/Software_design/туц/07 UML/07 UML/soft/UMLStudio80/UMLStudio 8.0/Guide.idl",
+		"/C/Education/Software_design/туц/07 UML/07 UML/soft/UMLStudio80/UMLStudio 8.0/User.idl",
+		"/C/Education/сии/СИИ/02 Онтологии/Soft/protege 4_3 for java 1.8 error/protege 4_3 java 1.8/readme",
+		"/C/Education/сии/СИИ/02 Онтологии/Soft/protege 4_3 for java 1.8 error/readme",
+		"/C/Education/Software_design/09 UPPAAL/soft/!!readme.my",
+		"/C/Education/Software_design/туц/07 UML/07 UML/soft/UMLStudio80/UMLStudio 8.0/Member.idl",
+		"/C/Education/сии/06 Prolog/Lab6.pro",
+		"/C/xampp/htdocs/BaseApplication/public/css/main.css",
+		"/C/xampp/htdocs/BaseApplication/public/js/app.js",
+		"/C/xampp/htdocs/BaseApplication/public/css/forms.css",
+		"/C/xampp/htdocs/BaseApplication/resources/views/info/yandex.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/info/dropbox.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/layouts/footer.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/info/info.blade.php",
+		"/C/xampp/htdocs/.env",
+		"/C/xampp/htdocs/BaseApplication/routes/web.php",
+		"/C/xampp/htdocs/BaseApplication/config/app.php",
+		"/C/xampp/htdocs/BaseApplication/resources/lang/ru/validation.php",
+		"/C/xampp/htdocs/BaseApplication/resources/lang/ru/passwords.php",
+		"/C/xampp/htdocs/BaseApplication/resources/lang/ru/pagination.php",
+		"/C/xampp/htdocs/BaseApplication/resources/lang/ru/auth.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/layouts/search.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/home.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/search/form.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/info/google.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/search/result.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/info/partner.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/info/instruction.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/BaseApplication/public/js/Ajax/LinkController.js",
+		"/C/xampp/htdocs/BaseApplication/resources/views/auth/passwords/email.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/tables/list.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/auth/passwords/reset.blade.php",
+		"/C/xampp/htdocs/BaseApplication/resources/views/layouts/inout.blade.php",
+		"/C/xampp/htdocs/sasArch/public/js/ajax.js",
+		"/C/xampp/htdocs/BaseApplication/public/js/Ajax/DeleteLink.js",
+		"/C/xampp/htdocs/BaseApplication/public/js/Ajax/CreateLink.js"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 194.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conte",
+			"content",
+			"material-switch",
+			"address",
+			"password",
+			"Address",
+			"email",
+			"Connection.php",
+			"localho"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"address"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Projects/Startup_klugdata/TheThingWhichWasMain/www/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								534,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								686,
+								686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thisProjectEditor.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"api.",
+				"routes\\api.php"
+			],
+			[
+				"api",
+				"routes\\api.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"config",
+				"vendor\\league\\flysystem\\src\\Config.php"
+			],
+			[
+				"appser",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"apps",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"authenticatesusers",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+			],
+			[
+				"sendspasswordresetemails",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\SendsPasswordResetEmails.php"
+			],
+			[
+				"resetspasswords",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\ResetsPasswords.php"
+			],
+			[
+				"appserv",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"appse",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"appserve",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"global.php",
+				"successIt\\vendor\\nikic\\php-parser\\lib\\PhpParser\\Node\\Stmt\\Global_.php"
+			],
+			[
+				"global.p",
+				"successIt\\vendor\\nikic\\php-parser\\lib\\PhpParser\\Node\\Stmt\\Global_.php"
+			],
+			[
+				"modelnot",
+				"successIt\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\ModelNotFoundException.php"
+			],
+			[
+				"register",
+				"successIt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"registeruse",
+				"successIt\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"app",
+				"successIt\\config\\app.php"
+			],
+			[
+				"eloquentuser",
+				"SentinelProject\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\EloquentUserProvider.php"
+			],
+			[
+				"eloquentuser.php",
+				"successIt\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\EloquentUserProvider.php"
+			],
+			[
+				"app.hp",
+				"successIt\\config\\app.php"
+			],
+			[
+				"app.ph",
+				"sasArch\\config\\app.php"
+			],
+			[
+				"service",
+				"sasArch\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php"
+			],
+			[
+				"kern",
+				"sasArch\\app\\Console\\Kernel.php"
+			],
+			[
+				"gate.",
+				"sasArch\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Access\\Gate.php"
+			],
+			[
+				"facades",
+				"sasArch\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterFacades.php"
+			],
+			[
+				"serviceprove",
+				"sasArch\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php"
+			],
+			[
+				"htmlserviceprovider",
+				"sasArch\\vendor\\laravel\\framework\\src\\Illuminate\\Mail\\MailServiceProvider.php"
+			],
+			[
+				"owner",
+				"success\\app\\Http\\Middleware\\OwnerMiddleware.php"
+			],
+			[
+				"",
+				"blogEngine\\.gitattributes"
+			],
+			[
+				"kerne",
+				"success\\app\\Http\\Kernel.php"
+			],
+			[
+				"middlewsre",
+				"success\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\MiddlewareNameResolver.php"
+			],
+			[
+				"l",
+				"public_html\\license.txt"
+			],
+			[
+				"layout.php",
+				"cyclecity\\2.3.0.2-compiled (1)\\upload\\admin\\controller\\design\\layout.php"
+			],
+			[
+				"header.tl",
+				"cyclecity\\admin\\view\\template\\common\\header.tpl"
+			],
+			[
+				"params",
+				"price-a-job\\config\\params.php"
+			],
+			[
+				"article",
+				"blogEngine\\app\\article.php"
+			],
+			[
+				"authen",
+				"blogEngine\\app\\Http\\Middleware\\AuthentikPages.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 411.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
